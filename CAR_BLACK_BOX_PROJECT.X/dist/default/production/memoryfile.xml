@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\CAR_BLACK_BOX_PROJECT.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>12289</length>
+      <used>12105</used>
+      <free>184</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>1536</length>
+      <used>440</used>
+      <free>1096</free>
+    </memory>
+  </executable>
+</project>
